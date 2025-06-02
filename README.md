@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Sungwoo
 
-<!--
-**sw90lee/sw90lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & Cloud Engineer | Kubernetes | Observability | Golang
 
-Here are some ideas to get you started:
+- 🚀 I build cloud-native infrastructure and monitoring solutions
+- 🔧 Experienced in OpenTelemetry, Istio, ArgoCD, and Elastic Stack
+- 🛠️ Contributor to open source projects
+- 🌱 Currently exploring eBPF and distributed tracing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages**: Go, Python, Bash  
+**Cloud & Infra**: Kubernetes, GCP, AWS, Terraform  
+**Monitoring**: OpenTelemetry, Prometheus, Grafana, ClickHouse  
+**CI/CD**: Jenkins, GitHub Actions, ArgoCD  
+
+## 📫 Reach Me
