@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Sungwoo </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> # 👋 Hi, I'm Sungwoo</li></li>DevOps & Cloud Engineer | Kubernetes | Observability | Golang</li></li><li> 🚀 I build cloud<li>native infrastructure and monitoring solutions</li><li> 🔧 Experienced in OpenTelemetry, Istio, ArgoCD, and Elastic Stack</li><li> 🛠️ Contributor to open source projects</li><li> 🌱 Currently exploring eBPF and distributed tracing </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> # 👋 Hi, I'm Sungwoo</li></li>DevOps & Cloud Engineer | Kubernetes | Observability | Golang</li></li><li> 🚀 I build cloud native infrastructure and monitoring solutions</li><li> 🔧 Experienced in OpenTelemetry, Istio, ArgoCD, and Elastic Stack</li><li> 🛠️ Contributor to open source projects</li><li> 🌱 Currently exploring eBPF and distributed tracing </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
